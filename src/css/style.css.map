@@ -1,9 +1,10 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,GAAG;CACd",
+    "mappings": "ACAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,GAAG;CACd;;ACFD,AACI,aADS,CACT,GAAG,CAAA;EACC,MAAM,EAAE,IAAI;CACf",
     "sources": [
         "style.scss",
-        "_app.scss"
+        "_app.scss",
+        "_header.scss"
     ],
     "names": [],
     "file": "style.css"
