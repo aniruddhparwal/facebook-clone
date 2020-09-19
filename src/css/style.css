@@ -112,4 +112,30 @@
   display: -ms-flexbox;
   display: flex;
 }
+
+.sidebarRow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.sidebarRow h4 {
+  margin-left: 20px;
+  font-weight: 600;
+}
+
+.sidebarRow:hover {
+  background-color: lightgray;
+  border-radius: 10px;
+}
+
+.sidebarRow .MuiSvgIcon-root {
+  font-size: xx-large;
+  color: #2e81f4;
+}
 /*# sourceMappingURL=style.css.map */
