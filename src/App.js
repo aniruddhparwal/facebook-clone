@@ -1,3 +1,4 @@
+import Widgets from './components/Widgets';
 import React from 'react';
 import Feed from './components/Feed';
 import Header from './components/Header';
@@ -11,6 +12,7 @@ function App() {
       <div className="app__body">
         <Sidebar />
         <Feed />
+        <Widgets />
       </div>
     </div>
   );
