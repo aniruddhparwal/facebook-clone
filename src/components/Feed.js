@@ -30,13 +30,6 @@ function Feed() {
                     message={post.data.message}
                 />
             ))}
-
-            <Post
-                profilePic="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png"
-                username="aniruddh"
-                timestamp="sfsfs"
-                message="shi"
-            />
         </div>
     )
 }
